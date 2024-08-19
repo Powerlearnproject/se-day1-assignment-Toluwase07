@@ -12,12 +12,12 @@ Identify and describe at least three key milestones in the evolution of software
 the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s
 
 List and briefly explain the phases of the Software Development Life Cycle.
-requirement
-design
-implementation
-testing
-deployment
-maintenance
+1.requirement
+2.design
+3.implementation
+4.testing
+5.deployment
+6.maintenance
 requirement means gathering and documenting user needs and system information
 design means creating high level and detailed designs of the software and interface
 testing means conducting checks to ensure the software meets quality standards and functional requirements
