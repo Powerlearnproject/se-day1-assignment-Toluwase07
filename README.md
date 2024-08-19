@@ -45,7 +45,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 Unit Testing is the mode of testing individual components or modules of software.
 Integration Testing is the mode of testing interactions between different components or subsystems.
 System Testing is the mode of testing the entire software system as a whole.
-Acceptance Testing is the mode of testing the software against user requirements to ensure it meets user needs.
+Acceptance Testing is the mode of testing the software against user requirements to ensure it meet user needs.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
